@@ -18,7 +18,7 @@ public class Prueba2Gihub {
         // TODO code application logic here
         /*Hola Mundo*/
         System.out.println("Hola Mundo");
-        System.out.println("Hola Nuevo mundo");
+        System.out.println("Hola Nuevo Mundo");
         
     }
     
