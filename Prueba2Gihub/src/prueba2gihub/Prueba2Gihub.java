@@ -17,6 +17,7 @@ public class Prueba2Gihub {
     public static void main(String[] args) {
         // TODO code application logic here
         /*Hola Mundo*/
+        System.out.println("Hola Mundo");
     }
     
 }
